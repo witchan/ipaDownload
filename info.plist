@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=229556864,3630273423&fm=173&app=49&f=JPEG?w=550&h=275&s=18D03DCC4BECB3701CF9B407030080C0</string>
+					<string>http://ww2.sinaimg.cn/thumb300/006jCQiGgw1f7kphyt9bfj305k05k745.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://ss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=229556864,3630273423&fm=173&app=49&f=JPEG?w=550&h=275&s=18D03DCC4BECB3701CF9B407030080C0</string>
+					<string>http://ww2.sinaimg.cn/thumb300/006jCQiGgw1f7kphyt9bfj305k05k745.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.jiaxiao.driveapp</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>6.6.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
