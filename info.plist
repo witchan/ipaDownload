@@ -1,3 +1,20 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@witchan 
+0
+00witchan/test
+ Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
+test/info.plist
+@witchan witchan Update info.plist
+c4f7619 on 17 Jan
+32 lines (31 sloc)  783 Bytes
+  
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -11,31 +28,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-		<string>https://raw.githubusercontent.com/witchan/test/master/app.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-		<string>https://raw.githubusercontent.com/witchan/test/master/image.512x512.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-		<string>https://raw.githubusercontent.com/witchan/test/master/image.57x57.png</string>
+					<string>https://raw.githubusercontent.com/witchan/test/master/app.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.1919.SupplierPortaliOS</string>
+				<string>com.dreamservice.GolodWallet</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
